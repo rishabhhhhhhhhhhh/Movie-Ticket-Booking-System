@@ -88,7 +88,7 @@ A modern, responsive **Movie Ticket Booking System** built on the MERN stack, de
 
 3. **Environment Variables**
 
-   Copy `.env.example` to `.env` in both root & `/client` directories and fill in:
+   Copy `.env.example` to `.env` in both `/server` & `/client` directories and fill in:
 
    ### Server `.env`
 
