@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "War2-2025",
+    "title": "War 2",
+    "overview": "A high‑octane action thriller sequel bringing together Hrithik Roshan and N. T. Rama Rao Jr. in a globe‑trotting spy mission.",
+    "poster_path": "https://gallery.123telugu.com/content/slideshows/2025/5/War2-20/images/War2(3).jpg",
+    "backdrop_path": "https://www.insideboxoffice.com/wp-content/uploads/2025/05/war-2-feature-image-new.jpg",
+    "release_date": "2025-08-14",
+    "original_language": "hi",
+    "tagline": "",
+    "genres": [
+      {"id": 28, "name": "Action"},
+      {"id": 53, "name": "Thriller"}
+    ],
+    "casts": [
+      {"name": "Hrithik Roshan",
+      "profile_path": "https://s.yimg.com/fz/api/res/1.2/aGk5ORbcm2ITRG5rCoaU.Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDQ7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz0xNDQ-/https://s.yimg.com/zb/imgv1/53d18402-0518-3655-bf46-e62ebe5b9f1d/s_140x140"
+      },
+      {"name": "N. T. Rama Rao Jr.",
+      "profile_path": "https://s.yimg.com/fz/api/res/1.2/HSuenb3u9S_lglfiLDPyWw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MTk0/https://s.yimg.com/zb/imgv1/a82d7a4c-947b-3ddf-bab2-18d83142dc36/t_500x300"
+      },
+      {"name": "Kiara Advani",
+      "profile_path": "https://s.yimg.com/fz/api/res/1.2/aKAh7tXxlJlzWBNZmvNUnw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDQ7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz0xNDQ-/https://s.yimg.com/zb/imgv1/eb2240c7-5dbc-33a3-8678-97041bf73337/s_140x140"
+      },
+      {"name": "Ashutosh Rana",
+      "profile_path": "https://s.yimg.com/fz/api/res/1.2/sXDEaDYnPDemkCRGLLmwvA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDQ7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz0xNDQ-/https://s.yimg.com/zb/imgv1/94948d31-b48e-3439-86b1-4e2c7ebb9fbc/s_140x140"
+      },
+      {"name": "Anil Kapoor",
+      "profile_path": "https://s.yimg.com/fz/api/res/1.2/vR4xXw_00AUhwI_mz5IeUA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDQ7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz0xNDQ-/https://s.yimg.com/zb/imgv1/8cf99ebd-1ea1-3a3f-8a99-0c1f7ea73283/s_140x140"
+      }
+    ],
+    "vote_average": 7.1,
+    "runtime": 169,
+    "createdAt": {"$date": Date.now()},
+    "updatedAt": {"$date": Date.now()}
+  },
+  {
+    "_id": "Baaghi4-2025",
+    "title": "Baaghi 4",
+    "overview": "The fourth installment in the Baaghi franchise starring Tiger Shroff, packed with high‑intensity action and drama.",
+    "poster_path": "/path_to_poster_baaghi4.jpg",
+    "backdrop_path": "/path_to_backdrop_baaghi4.jpg",
+    "release_date": "2025-09-05",
+    "original_language": "hi",
+    "tagline": "",
+    "genres": [
+      {"id": 28, "name": "Action"},
+      {"id": 53, "name": "Thriller"}
+    ],
+    "casts": [
+      {"name": "Tiger Shroff"},
+      {"name": "Sanjay Dutt"},
+      {"name": "Sonam Bajwa"},
+      {"name": "Harnaaz Sandhu"}
+    ],
+    "vote_average": 0,
+    "runtime": 0,
+    "createdAt": {"$date": Date.now()},
+    "updatedAt": {"$date": Date.now()}
+  },
+  {
+    "_id": "DelhiFiles-BengalChapter-2025",
+    "title": "The Delhi Files: The Bengal Chapter",
+    "overview": "A political‑historical drama exploring pivotal events in Bengal’s history, part of Vivek Agnihotri's Files trilogy.",
+    "poster_path": "/path_to_poster_bengal.jpg",
+    "backdrop_path": "/path_to_backdrop_bengal.jpg",
+    "release_date": "2025-09-05",
+    "original_language": "hi",
+    "tagline": "",
+    "genres": [
+      {"id": 18, "name": "Drama"},
+      {"id": 80, "name": "Crime"}
+    ],
+    "casts": [
+      {"name": "Anupam Kher"},
+      {"name": "Mithun Chakraborty"},
+      {"name": "Puneet Issar"},
+      {"name": "Babbu Mann"},
+      {"name": "Govind Namdeo"},
+      {"name": "Pallavi Joshi"}
+    ],
+    "vote_average": 0,
+    "runtime": 0,
+    "createdAt": {"$date": Date.now()},
+    "updatedAt": {"$date": Date.now()}
+  },
+  {
+    "_id": "JollyLLB3-2025",
+    "title": "Jolly LLB 3",
+    "overview": "The third installment of the courtroom comedy series featuring Akshay Kumar and Arshad Warsi in a legal face‑off.",
+    "poster_path": "/path_to_poster_jolly3.jpg",
+    "backdrop_path": "/path_to_backdrop_jolly3.jpg",
+    "release_date": "2025-09-19",
+    "original_language": "hi",
+    "tagline": "",
+    "genres": [
+      {"id": 35, "name": "Comedy"},
+      {"id": 18, "name": "Drama"}
+    ],
+    "casts": [
+      {"name": "Akshay Kumar"},
+      {"name": "Arshad Warsi"},
+      {"name": "Huma Qureshi"},
+      {"name": "Amrita Rao"},
+      {"name": "Saurabh Shukla"},
+      {"name": "Annu Kapoor"}
+    ],
+    "vote_average": 0,
+    "runtime": 0,
+    "createdAt": {"$date": Date.now()},
+    "updatedAt": {"$date": Date.now()}
+  }
+]
